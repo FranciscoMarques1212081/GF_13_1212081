@@ -1,0 +1,8 @@
+
+int
+escreva o primeiro numero: (n1)
+ler n1
+escreva o segundo numero: (n2)
+ler n2 
+n1 + n2 = n
+o resultado é n
